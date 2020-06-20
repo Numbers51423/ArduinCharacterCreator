@@ -1,0 +1,12 @@
+Primary:
+Create Gui that can create a character manually or randomly makes one.
+    Must include race, racial choices, culture, culture choices, career, career choices, specialization choices in career
+    Skills, secrets, items, spells, prayers, connections, runes, Base Stats
+
+    Preferably random has two options total random and selective random, total being total random legal choices on everything
+    and Selective is ai choices based on selected play style, dps, tank,heal,face
+Secondary:
+Gui that helps with game play, listing available secrets showing paths of secrets, helping with item, fetish, spell creation
+
+Tertiary:
+Character creator that lets u mix and match sprites to make a character model.
